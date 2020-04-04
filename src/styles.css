@@ -1,0 +1,20 @@
+
+.nav{
+    background-color: darkslategrey;
+    color: floralwhite;
+    height: 3rem;
+}
+
+.link{
+    color: floralwhite;
+    font-size: 1.5rem;
+    margin-right: 1rem;
+}
+.link:hover{
+    color: lavender;
+    text-decoration: none;
+}
+
+.heading{
+    text-align: center;
+}
